@@ -17,7 +17,7 @@ placeholder if the real photo isn't present yet.
 
 | Filename        | Where it appears            | Recommended size | Orientation | Notes |
 |-----------------|-----------------------------|------------------|-------------|-------|
-| `hero.jpg`      | Hero, right-hand frame      | 1080 × 1350      | Portrait    | Team on site / flagship asset. Strong, well-lit. |
+| `hero-bg.jpg`   | Hero, full-bleed background  | 1920 × 1080      | Landscape   | Equipment / worksite, golden-hour. Darker frame edges keep headline legible. A `.png` renamed to `hero-bg.jpg` works too. |
 | `about.jpg`     | About section frame         | 1080 × 1280      | Portrait    | Engineers at work, control room, or site. |
 | `project-1.jpg` | Projects — Oil & Gas        | 1000 × 850       | Landscape   | Offshore / process module. |
 | `project-2.jpg` | Projects — Energy           | 1000 × 850       | Landscape   | Gas plant / facility. |
