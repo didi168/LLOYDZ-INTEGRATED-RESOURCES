@@ -1,0 +1,17 @@
+{
+  "name": "LLOYDZ Integrated Resources",
+  "short_name": "LLOYDZ",
+  "description": "Multidiscipline engineering management, procurement, and consulting for oil & gas, energy, and infrastructure.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBFAF7",
+  "theme_color": "#ECB22E",
+  "icons": [
+    {
+      "src": "images/favicon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
